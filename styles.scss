@@ -167,7 +167,8 @@ body {
 
 .news-container {
     position: relative;
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
     margin-left: -19px;
 }
 
