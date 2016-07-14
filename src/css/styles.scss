@@ -23,7 +23,7 @@ html {
 }
 
 body {
-    background-image: url("bg.jpg");
+    background-image: url("../images/bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 1px 1px;
@@ -282,7 +282,7 @@ body {
         float: left;
         margin-left: 12px;
         box-shadow: 0 4px 0 $shadow;
-        background-image: url(sk8er-4.png);
+        background-image: url(../images/sk8er-4.png);
         background-position: -112px -10px;
         margin-right: 5px;
         .names {
@@ -298,7 +298,7 @@ body {
         float: left;
         margin-left: 8px;
         box-shadow: 0 4px 0 $shadow;
-        background-image: url(sk8er-3.png);
+        background-image: url(../images/sk8er-3.png);
         background-position: -7px -9px;
         .names {
             padding-top: 19px;
@@ -311,7 +311,7 @@ body {
         border: 4px solid white;
         margin-left: 10px;
         box-shadow: 0 4px 0 $shadow;
-        background-image: url(sk8er-12.png);
+        background-image: url(../images/sk8er-12.png);
         background-position: -388px 1px;
         .names {
             padding-top: 134px;
@@ -325,7 +325,7 @@ body {
         margin-top: 12px;
         box-shadow: 0 4px 0 $shadow;
         margin-left: 12px;
-        background-image: url(sk8er-11.png);
+        background-image: url(../images/sk8er-11.png);
         background-position: -703px -99px;
         margin-bottom: 30px;
         .names {
@@ -604,7 +604,7 @@ body {
             float: none;
             margin-left: 0px;
             box-shadow: 0 4px 0 rgba(255, 255, 255, 0.25);
-            background-image: url(sk8er-4.png);
+            background-image: url(../images/sk8er-4.png);
             background-position: -112px -10px;
             margin-right: 0px;
             margin-top: 8px;
@@ -621,7 +621,7 @@ body {
             float: none;
             margin-left: 0px;
             box-shadow: 0 4px 0 rgba(255, 255, 255, 0.25);
-            background-image: url(sk8er-3.png);
+            background-image: url(../images/sk8er-3.png);
             background-position: -7px -9px;
             margin-top: 12px;
             .names {
@@ -634,7 +634,7 @@ body {
             float: none;
             border: 4px solid white;
             box-shadow: 0 4px 0 rgba(255, 255, 255, 0.25);
-            background-image: url(sk8er-12.png);
+            background-image: url(../images/sk8er-12.png);
             background-position: -388px 1px;
             margin-left: 344px;
             margin-top: -471px;
@@ -650,7 +650,7 @@ body {
             margin-top: 8px;
             box-shadow: 0 4px 0 rgba(255, 255, 255, 0.25);
             margin-left: 0px;
-            background-image: url(sk8er-11.png);
+            background-image: url(../images/sk8er-11.png);
             background-position: -703px -99px;
             margin-bottom: 0px;
             .names {
